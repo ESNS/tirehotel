@@ -1,2 +1,4 @@
 # tirehotel
 tirehotel
+I hope someone can help me with this "easy" project. At work we store customers summer/winter tyres and we need a simple program to search/edit/delete/inventory print that info. Today we just use an Excel page where the hotel is drawn in a graphical way, think bookcase.  What is stored is just the cars registration number in bookcase 14, shelf B. It can be 1-4 registrations on one shelf. In the Excel we just do a page search (ctrl-B), it'a a bit hard to see there it's found.
+The rules for this program is: NO webserver or other database server. Just to keep it as simple as possible, there isn't any fancy IT department that can admin servers and so. The datafile can be a textfile/excel/XML/or what ever. Everything will be on a shared file drive (G:\tirehotel\) The main program must able to run on >1 computer at the same time or a warning must be shown that the program is in use by user X. 
